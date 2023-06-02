@@ -40,6 +40,11 @@
         padding: 8px;
       }
 
+      input[type=submit]{
+        margin-top: 5px;
+        padding: 5px;
+      }
+
       .main_h{
         text-align: center;
       }
